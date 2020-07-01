@@ -25,9 +25,6 @@ Every row or object in the data frame is a sentence that was part of the stories
 
 * **DEPENDENCY [1,2 and 3]:** According to the annotators, and if present, the previous sentences that establish the causal occurrences that trigger this one
 
-    code (4 spaces indent)
-[links](https://wikipedia.org)
-
 ----
 ## changelog
 * 01-Jul-2020 Initial commit 
